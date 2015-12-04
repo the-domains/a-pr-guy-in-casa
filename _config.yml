@@ -1,7 +1,7 @@
 name: A PR Guy in Casa
 favicon: null
-layout_spectrum: 0.8859888438601047
-typography_spectrum: 0.8164572378154844
+layout_spectrum: 0.00674
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.2749083242379129
-  lightness: 0.518184220418334
-  saturation: 0.6558598841074854
-  rhythmicContrast: 0.551307259593159
+    - '#525252'
+    - '#e8e8e8'
+    - '#2c2c2c'
+    - '#828282'
+    - '#a4a4a4'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
